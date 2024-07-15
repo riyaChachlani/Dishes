@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 5px;
+  margin-top: 10px;
+  background-origin: padding-box;
+  border-radius: 2px;
+  background-color: rgb(193, 223, 233);
+  box-shadow: 10px;
+}
+
+Table {
+  margin-top: 5px;
+}
